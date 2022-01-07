@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-3D-CTImage/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-3D-CTImage/static/js/main.edf526ac.chunk.js",
+    "main.js.map": "/React-3D-CTImage/static/js/main.edf526ac.chunk.js.map",
+    "runtime-main.js": "/React-3D-CTImage/static/js/runtime-main.8c169ac2.js",
+    "runtime-main.js.map": "/React-3D-CTImage/static/js/runtime-main.8c169ac2.js.map",
+    "static/js/2.10ed5ebc.chunk.js": "/React-3D-CTImage/static/js/2.10ed5ebc.chunk.js",
+    "static/js/2.10ed5ebc.chunk.js.map": "/React-3D-CTImage/static/js/2.10ed5ebc.chunk.js.map",
+    "static/js/3.e20f1566.chunk.js": "/React-3D-CTImage/static/js/3.e20f1566.chunk.js",
+    "static/js/3.e20f1566.chunk.js.map": "/React-3D-CTImage/static/js/3.e20f1566.chunk.js.map",
+    "index.html": "/React-3D-CTImage/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-3D-CTImage/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.10ed5ebc.chunk.js.LICENSE.txt": "/React-3D-CTImage/static/js/2.10ed5ebc.chunk.js.LICENSE.txt",
+    "static/media/Berea.60292999.vti": "/React-3D-CTImage/static/media/Berea.60292999.vti"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c169ac2.js",
+    "static/js/2.10ed5ebc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.edf526ac.chunk.js"
+  ]
+}
